@@ -64,8 +64,5 @@ Group Members
 2)Krishna Abhang 24BCE10678
 3)Ayush Mishra 24BCE11111
 4)Dishaa Sandip Patil 24BCE10238
-
-
-
-
+5)Vishal Disale 24BCE10121
 
